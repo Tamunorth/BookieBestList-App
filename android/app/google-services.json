@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471291440530",
+    "project_id": "books-app-330500",
+    "storage_bucket": "books-app-330500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471291440530:android:6e2c18c6a8cb19f19fe54b",
+        "android_client_info": {
+          "package_name": "teternalflame.appandup_take_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471291440530-gk79nklc5voaalgvjb5esml8q83pd9gb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teternalflame.appandup_take_home",
+            "certificate_hash": "d8e457e757c1bb860f9f8b7f99ad0408c9467136"
+          }
+        },
+        {
+          "client_id": "471291440530-32o7arblktrnvbqievojkt63r57gq085.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCltsJXmTg7EGDXnkUuhiS2ZQtWxey7aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471291440530-32o7arblktrnvbqievojkt63r57gq085.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
