@@ -1,13 +1,13 @@
-# appandup_take_home
+# BookieBestList
 
-A new Flutter application.
+This project fetches the current NewYork times Best Sellers and a summary of the book, you can then purschase said book from amazon right from the app.
+The app was built with FLutter, using CLEAN architecture, Firebae Authentication for Google sign Up and sign in and Provider as the state Management solution. 
 
-## Getting Started
+A few resoures to help out: 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
+- [Provider crash course by Destiny Ed](https://youtu.be/rqtUE6qQ_A4)
+- [Flutter Provider: Introduction by Code with Andrea](https://www.youtube.com/watch?v=O71rYKcxUgA)
+- [Flutter App with Firebase Authentication and Firestore Tutorial](https://www.youtube.com/watch?v=fi2WkznwWbc)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
