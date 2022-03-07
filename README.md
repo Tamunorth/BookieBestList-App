@@ -1,6 +1,6 @@
 # BookieBestList
 
-This project fetches the current NewYork times Best Sellers and a summary of the book, you can then purschase said book from amazon right from the app.
+This project fetches the current NewYork times Best Sellers and a summary of the books,it also allows you to purschase any of these books from amazon directly from the app.
 The app was built with FLutter, using CLEAN architecture, Firebae Authentication for Google sign Up and sign in and Provider as the state Management solution. 
 
 A few resoures to help out: 
